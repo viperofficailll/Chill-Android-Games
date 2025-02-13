@@ -68,7 +68,7 @@ fun AboutUsContent() {
         // Title
         Text(
             text = "About Us",
-            color = Color(0xFF00E5FF),
+            color = Color(0xFFFF0000), // Red color
             fontSize = 36.sp,
             fontWeight = FontWeight.Bold,
             fontFamily = FontFamily.Serif,
@@ -96,13 +96,21 @@ fun AboutUsContent() {
                         )) {
                             append("Sandesh Pokhrel")
                         }
-                        append(" and ")
+                        append(", ")
                         withStyle(style = SpanStyle(
                             color = Color(0xFF00E5FF),
                             fontWeight = FontWeight.Bold,
                             fontSize = 20.sp
                         )) {
                             append("Swopnil Regmi")
+                        }
+                        append(" and ")
+                        withStyle(style = SpanStyle(
+                            color = Color(0xFF00E5FF),
+                            fontWeight = FontWeight.Bold,
+                            fontSize = 20.sp
+                        )) {
+                            append("Samip Sangroula")
                         }
                     },
                     color = Color.White,
@@ -111,7 +119,7 @@ fun AboutUsContent() {
                 )
 
                 Text(
-                    text = "Founders of ChillMaCoding (a less talked about Startup)",
+                    text = "Founders of ChillMaCoding (a less talked about startup)",
                     color = Color(0xFFAAAAAA),
                     fontSize = 16.sp
                 )
@@ -124,6 +132,12 @@ fun AboutUsContent() {
 
                 Text(
                     text = "Swopnil Regmi is an Unreal Engine Game Developer",
+                    color = Color.White,
+                    fontSize = 16.sp
+                )
+
+                Text(
+                    text = "Samip Sangroula is an Unreal Engine Game Developer",
                     color = Color.White,
                     fontSize = 16.sp
                 )
@@ -155,6 +169,10 @@ fun AboutUsContent() {
             LinkButton(
                 text = "Swopnil Regmi",
                 url = "https://x.com/Swopnil71"
+            )
+            LinkButton(
+                text = "Samip Sangroula",
+                url = "https://x.com/SamipSangroula"
             )
         }
     }
@@ -200,7 +218,7 @@ fun Footer(modifier: Modifier = Modifier) {
             Spacer(modifier = Modifier.height(4.dp))
 
             Text(
-                text = "© 1914  ChillMaCoding All rights reserved",
+                text = "© 2024  ChillMaCoding All rights reserved",
                 color = Color.Gray,
                 fontSize = 12.sp
             )
