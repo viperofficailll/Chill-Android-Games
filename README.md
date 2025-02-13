@@ -14,7 +14,7 @@ Chill-Android-Games is an all-in-one Android app featuring a collection of fun, 
 
 | Tiktaktoe | Guess the number | About us|
 |-----------------|------------|------------|
-| ![tiktaktoe](screenshots/tiktaktoe.png) | ![Guess the number ](screenshots/guessthenumber.png) | ![About us ](screenshots/aboutus.png) |
+| ![tiktaktoe](screenshots/tiktaktoe.png) | ![Guess the number ](screenshots/guessthenumber.png) | ![About us ](screenshots/finalaboutus.png) |
 
 ---
 
