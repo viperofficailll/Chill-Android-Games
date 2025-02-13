@@ -10,11 +10,11 @@ Chill-Android-Games is an all-in-one Android app featuring a collection of fun, 
 
 | Home Screen | Tic-Tac-Toe | Snakes |
 |------------|------------|------------|
-| ![Home](screenshots/firstpage.png) | ![Tic-Tac-Toe](screenshots/tic_tac_toe.png) | ![Snakes](screenshots/snakes.png) |
+| ![Home](screenshots/firstpage.png) | ![Select Games Page ](screenshots/selectgamespage.png) | ![Snakes](screenshots/snakegame.png) |
 
 | Guess the Number | Settings | More Games |
 |-----------------|------------|------------|
-| ![Guess](screenshots/guess_number.png) | ![Settings](screenshots/settings.png) | ![More Games](screenshots/more_games.png) |
+| ![tiktaktoe](screenshots/tiktaktoe.png) | ![Guess the number ](screenshots/guessthenumber.png) | ![About us ](screenshots/aboutus.png) |
 
 ---
 
