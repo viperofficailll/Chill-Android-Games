@@ -17,6 +17,11 @@ Chill-Android-Games is an all-in-one Android app featuring a collection of fun, 
 | ![tiktaktoe](screenshots/tiktaktoe.png) | ![Guess the number ](screenshots/guessthenumber.png) | ![About us ](screenshots/finalaboutus.png) |
 
 ---
+## 📥 Download & Install
+
+Click the button below to download the latest version of Chill-Android-Games:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/viperofficailll/Chill-Android-Games/raw/main/chill.apk)
 
 ## 🚀 Features  
 ✔ **Multiple Games in One App** – Play Tic-Tac-Toe, Snakes, Guess the Number, and more.  
