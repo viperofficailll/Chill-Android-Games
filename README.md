@@ -10,7 +10,7 @@ Chill-Android-Games is an all-in-one Android app featuring a collection of fun, 
 
 | Home Screen | Select game page  | Snakes |
 |------------|------------|------------|
-| ![Home](screenshots/firstpage.png) | ![Select Games Page ](screenshots/selectgamespage.png) | ![Snakes](screenshots/snakegame.png) |
+| ![Home](screenshots/aafirstpage.png) | ![Select Games Page ](screenshots/aaaselectgamespage.png) | ![Snakes](screenshots/snakegame.png) |
 
 | Tiktaktoe | Guess the number | About us|
 |-----------------|------------|------------|
